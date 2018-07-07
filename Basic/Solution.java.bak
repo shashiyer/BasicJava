@@ -1,0 +1,17 @@
+import java.util.*;
+
+public class Solution 
+{
+
+    public static void main(String[] args) 
+    {
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        int b = scan.nextInt();
+        int c = acan.nextInt();
+        scanner.close();
+        System.out.println("The 1st number is :" + a);
+        System.out.println("The 2nd number is :" + b);
+        System.out.println("The 3rd number is :" + c);
+    }
+}
